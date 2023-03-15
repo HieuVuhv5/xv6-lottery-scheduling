@@ -1,6 +1,6 @@
 # xv6-lottery-scheduling
 This is class lab assignmet from my classs cs333 at PSU.<br>
-This source using  PThreads on  Linux system<br>
+
 
 <b> How to run <br>
 After cloning<br>
